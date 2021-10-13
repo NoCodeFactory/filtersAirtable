@@ -8,6 +8,7 @@ const requestOptions = {
 }
 
 let datas;
+let filteredData = [];
 
 let allFilters = {
   arrayName: [],
